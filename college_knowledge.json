@@ -1,0 +1,71 @@
+{
+    "knowledge_items": [
+        {
+            "id": "library_timings",
+            "keywords": [
+                "library",
+                "timing",
+                "open",
+                "close",
+                "working hours"
+            ],
+            "solution": "The college library is open from 8:30 AM to 6:00 PM on all working days. On Saturdays, it operates from 9:00 AM to 4:00 PM."
+        },
+        {
+            "id": "fee_payment",
+            "keywords": [
+                "fee",
+                "payment",
+                "fees",
+                "online payment",
+                "tuition"
+            ],
+            "solution": "You can pay your college fees online through the official student portal or at the college administrative office. For online payments, we support UPI, Net Banking, and Credit/Debit Cards."
+        },
+        {
+            "id": "canteen_menu",
+            "keywords": [
+                "canteen",
+                "food",
+                "lunch",
+                "breakfast",
+                "mess"
+            ],
+            "solution": "The college canteen serves breakfast (8:00 AM - 10:00 AM), Lunch (12:30 PM - 2:00 PM), and snacks until 5:00 PM. The daily menu usually includes variety rice, thali, and vegetarian snacks."
+        },
+        {
+            "id": "contact_admin",
+            "keywords": [
+                "admin",
+                "office",
+                "contact",
+                "phone",
+                "email",
+                "office number"
+            ],
+            "solution": "You can contact the Administrative Office at admin@npcollege.edu or call +91-44-2278XXXX during office hours (9:00 AM - 5:00 PM)."
+        },
+        {
+            "id": "bus_routes",
+            "keywords": [
+                "bus",
+                "transport",
+                "route",
+                "pickup",
+                "transportation"
+            ],
+            "solution": "College bus routes cover major parts of the city. You can find the detailed route map and pickup timings on the 'Transport' notice board or by visiting the transport coordinator's office."
+        },
+        {
+            "id": "wifi_access",
+            "keywords": [
+                "wifi",
+                "internet",
+                "password",
+                "network",
+                "login"
+            ],
+            "solution": "To access the campus WiFi, please register your device MAC address at the IT department. Once registered, you can login using your student ID and password."
+        }
+    ]
+}
