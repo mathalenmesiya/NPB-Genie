@@ -65,6 +65,7 @@ def extract_json(text):
         json_text = json_text.split("```")[1].split("```")[0].strip()
     return json_text
 
+def triage_message(user_message):
     """
     🧠 AGENT 4: RAG + Gemini LLM (Triage Only)
     Decides if a message is college-related and whether it needs a ticket.
